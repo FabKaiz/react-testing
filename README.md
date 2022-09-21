@@ -1,5 +1,7 @@
 # React unit test
 
+Simple counter app with unit test
+
 ![website screenshot](./screenshot.png)
 #### What i used :
 
